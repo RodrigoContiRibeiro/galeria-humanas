@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+.gallery-modal--close,
+.caption-right,
+.gallery-figcaption--thumbnails,
+.gallery-thumbnails--toggle {
+  display: none !important;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
