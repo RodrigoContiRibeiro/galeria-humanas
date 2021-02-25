@@ -20,7 +20,7 @@ const photos = [
     photo: Photo1,
     caption: "Caça de Crocodilos às margens do Nilo. [ca. 1880].",
     subcaption:
-      "Foto tirada pelos Adelphoi Zangaki, demonstra o quotidiano de caçadores dos crocodilos no Nilo, que provavelmente sobrevivem do ato. O sucesso da foto demonstra o Orientalismo europeu e fará contraste com a próxima imagem.",
+      "Foto tirada pelos Adelphoi Zangaki, demonstra o quotidiano dos caçadores de crocodilos no Nilo, que provavelmente sobrevivem do ato. O sucesso da foto demonstra o Orientalismo europeu e fará contraste com a próxima imagem.",
   },
   {
     photo: Photo2,
@@ -51,31 +51,31 @@ const photos = [
   },
   {
     photo: Photo6,
-    caption: "O Congresso de Viena [1819]",
+    caption: "O Congresso de Viena. [1819]",
     subcaption:
-      "O quadro é uma representação do Congresso de Viena em 1815, que foi estabelecido após a derrota de Napoleão, o congresso que manteria a paz intra-europeia até a 1º Guerra. Isso possibilitou a expansão dos europeus em outras partes do mundo(Ásia e Africa).",
+      "O quadro é uma representação do Congresso de Viena em 1815, que foi estabelecido após a derrota de Napoleão, o congresso manteria a paz intra-europeia até a 1º Guerra. Isso possibilitou a expansão dos europeus em outras partes do mundo como na Ásia e Africa.",
   },
   {
     photo: Photo7,
-    caption: "Aumento da população de sem-tetos [final dos 1800s]",
+    caption: "Aumento da população de sem-tetos. [final dos 1800s]",
     subcaption:
-      "A foto enquadra a falta de moradia em uma Londres pós-industrial. Com a massiva urbanização londrina a população de sem-tetos também aumentou, muitos deles vinham do campo para não conseguirem sustentar um teto.",
+      "A foto enquadra a falta de moradia em uma Londres pós-industrial. Com a massiva urbanização londrina, a população de sem-tetos também aumentou, muitos deles vinham do campo com esperanças de um vida melhor, para não conseguirem sustentar um teto.",
   },
   {
     photo: Photo8,
-    caption: "Senhores Penn and Son's trabalham.",
+    caption: "Senhores Penn and Son's trabalham. [1863]",
     subcaption:
-      'A antiga foto nos mostra como que era a "nova" maneira de trabalhar, com as máquinas e de forma repetitiva, ela domina a indústria até hoje, mas com máquinas no lugar dos humanos.',
+      'A antiga foto nos mostra como que era a "nova" maneira de trabalhar, com as máquinas. Esse método domina o setor industrial até hoje, mas com mais máquinas e menos humanos.',
   },
   {
     photo: Photo9,
-    caption: "Maquinário na fundição de Penn and Son's.",
+    caption: "Maquinário na fundição de Penn and Son's. [1850]",
     subcaption:
-      "A maquina nos mostrada foi uma das substitutas de boa parte da força animal e humana no processos de manufatura, criando a indústria.",
+      "A maquina nos mostrada foi uma das substitutas de boa parte da força animal e humana no processos de manufatura, criando a indústria. A tecnologia se desenvolveu em conjunto com a indústria, melhorando a qualidade de vida para alguns, enquanto muitos outros sofriam.",
   },
   {
     photo: Photo10,
-    caption: "Empregados de uma central telefônica em Nova Iorque [1896]",
+    caption: "Empregados de uma central telefônica em Nova Iorque. [1896]",
     subcaption:
       "A dinâmica de trabalho retratada na foto começou a ser aplicada no início da 2º Rev. Industrial e ela foi usada por muito tempo, anteriormente a labuta no campo era o comum. Ela também mostra a ascensão do telefone.",
   },
